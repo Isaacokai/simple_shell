@@ -82,10 +82,5 @@ $
 ## Bugs
 No known bugs exists within the program as of this writing.
 
-## Authors
-Stephen Makenzi Waweru | [@stephenmakenziwaweru](https://github.com/StephenMakenziWaweru)
-
-Aloice Okoth | [@aloicerains](https://github.com/aloicerains)
-
 ## License
 Given the open source nature of the project, no special licenses or license whatsoever is needed to use, modify, and redistribute the simple_shell program.
